@@ -1,6 +1,6 @@
 # Deal or No Deal
 
-Deal or No Deal is a text based ruby game based on the American popular television gameshow "Deal or No Deal"
+Deal or No Deal is a text based ruby game based on the American popular television gameshow "Deal or No Deal.
 
 ## Deal or No Deal User Story
 * As a user, I can enter my name and have the text based game recall my name on subsequent prompts. 
